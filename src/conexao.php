@@ -7,6 +7,4 @@
       if($this->con->connect_error) die("Falha ao conectar com o banco.");
     }
   }
-
-  $conexao = new Conexao();
 ?>
